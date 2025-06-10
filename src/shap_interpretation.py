@@ -2,7 +2,6 @@ import shap
 import joblib
 import pandas as pd
 import matplotlib.pyplot as plt
-import os
 
 
 if __name__ == "__main__":
